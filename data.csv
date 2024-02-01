@@ -1,0 +1,8 @@
+NAME,CONTACT NUMBER,CHECK IN,CHECK OUT,ROOM TYPE,NUMBER OF GUESTS,MODE OF PAYMENT,TOTAL BILL
+"Ian Jure","09453183638","January 15 2024","January 16 2024","Single","1","Cash","2000"
+"Angel","09453183838","January 17 2024","January 18 2024","Double","2","E-Wallet","3500"
+"Ian","09090909990","January 18 2024","January 25 2024","Presidential","9","Bank","280000"
+"Ian","09455535553","January 18 2024","January 25 2024","Presidential","9","E-Wallet","280000"
+"Peter Jones","09232331909","February 2 2024","February 3 2024","Single","1","Cash","2000"
+"Peter Jones","09232331909","February 2 2024","February 3 2024","Single","1","E-Wallet","2000"
+"Peter Jones","09232331909","February 2 2024","February 3 2024","Single","1","Bank","2000"
