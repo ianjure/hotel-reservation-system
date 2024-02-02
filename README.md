@@ -8,10 +8,12 @@ Java Libraries Used:
 **Home Screen**
 <br>
 ![image](https://github.com/ianjure/hotel-reservation-system/blob/main/screenshots/home.PNG)
+<br>
 
 **Picking a Date**
 <br>
 ![image](https://github.com/ianjure/hotel-reservation-system/blob/main/screenshots/date.png)
+<br>
 
 **Room Types**
 <br>
@@ -21,6 +23,7 @@ Java Libraries Used:
 ![image](https://github.com/ianjure/hotel-reservation-system/blob/main/screenshots/quad.png)
 ![image](https://github.com/ianjure/hotel-reservation-system/blob/main/screenshots/executive.png)
 ![image](https://github.com/ianjure/hotel-reservation-system/blob/main/screenshots/presidential.png)
+<br>
 
 **Saving User Information to CSV**
 <br>
